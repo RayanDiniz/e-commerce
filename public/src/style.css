@@ -1,0 +1,17 @@
+.body {
+    color: aliceblue;
+    background-color: #008ccb;
+}
+.container {
+    padding: 5%;
+}
+
+.form {
+    text-align: center;
+    background-color: #006597;
+    padding: 15%;
+}
+.formu {
+    margin-left: 20%;
+    margin-right: 20%;
+}
